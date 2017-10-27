@@ -32,7 +32,7 @@ Configuration:
 
 3.) Vagrant installation
 
- #wget https://releases.hashicorp.com/vagrant/2.0.0/vagrant_2.0.0_x86_64.deb
+ #wget --no-check-certificate https://releases.hashicorp.com/vagrant/2.0.0/vagrant_2.0.0_x86_64.deb
  
  #sudo dpkg -i vagrant_2.0.0_x86_64.deb
         Install a plugin for sync via NFS support
