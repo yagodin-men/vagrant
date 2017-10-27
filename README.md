@@ -55,6 +55,6 @@ Configuration:
 
 5.) Start a VM creation process
 
- #cd ~/zaproo-centos-01
+ #cd ~/zaproo-centos-01/vagrant
  
  #vagrant up
